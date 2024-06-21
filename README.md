@@ -70,10 +70,10 @@ PostgreSQL Course using BASH:
 
   ✔️ **Learn Bash by Building a Boilerplate** - 170 interactive lessons (GitPod)  
   ✔️ **Learn Relational Databases by Building a Mario Database** - 165 interactive lessons (GitPod)  
-  ✔️ **Celestial Bodies Database** - Project for Certification - Solution and DB dump is available on my GitHub if you need some hints  
+  ✔️ **Celestial Bodies Database** - Project for Certification - Solution and DB dump is available on my GitHub 
   ✔️ **Learn Bash Scripting by Building Five Programs** - 220 interactive lessons (GitPod)  
   ✔️ **Learn SQL by Building a Student Database** - 280 interactive lessons (GitPod)  
-  ✔️ **World Cup Database** - Project for Certification - Solution and DB dump is available on my GitHub if you need some hints  
+  ✔️ **World Cup Database** - Project for Certification - Solution and DB dump is available on my GitHub  
   ✔️ **Learn Advanced Bash by Building a Kitty Ipsum Translator** - 140 interactive lessons (GitPod)  
   ✔️ **Learn Bash and SQL by Building a Bike Rental Shop** - 210 interactive lessons (GitPod)  
   📈 **Salon Appointment Scheduler** - Project for Certification - under way  
@@ -87,7 +87,7 @@ PostgreSQL Course using BASH:
 Data Structures, Algorithms, Object Oriented Programming
 
   ✔️ **Learn String Manipulation by Building a Cipher** - 96 interactive lessons (Web Interpreter)  
-  ✔️ **Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm** - 35 interactive lessons (Web Interpreter)  
+  ✔️ **Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm** - 35 interactive lessons  
   ✔️ **Learn Lambda Functions by Building an Expense Tracker** - 44 interactive lessons (Web Interpreter)  
   ✔️ **Learn the Bisection Method by Finding the Square Root of a Number** 21 interactive lessons (Web Interpreter)  
   ✔️ **Build an Arithmetic Formatter Project** - Project for Certification - Solution available on my GitHub  
