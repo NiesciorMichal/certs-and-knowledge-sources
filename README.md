@@ -70,7 +70,7 @@ PostgreSQL Course using BASH:
 
   ✔️ **Learn Bash by Building a Boilerplate** - 170 interactive lessons (GitPod)  
   ✔️ **Learn Relational Databases by Building a Mario Database** - 165 interactive lessons (GitPod)  
-  ✔️ **Celestial Bodies Database** - Project for Certification - Solution and DB dump is available on my GitHub 
+  ✔️ **Celestial Bodies Database** - Project for Certification - Solution and DB dump is available on my GitHub  
   ✔️ **Learn Bash Scripting by Building Five Programs** - 220 interactive lessons (GitPod)  
   ✔️ **Learn SQL by Building a Student Database** - 280 interactive lessons (GitPod)  
   ✔️ **World Cup Database** - Project for Certification - Solution and DB dump is available on my GitHub  
